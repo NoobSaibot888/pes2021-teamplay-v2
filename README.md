@@ -470,7 +470,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub Issues** - Bug reports and feature requests
 - **Documentation** - Comprehensive guides in `/docs`
 - **Community Forum** - Discord server for discussions
-- **Email Support** - technical@pes-teamplay.com
+- **Email Support** - admin@pes-bulgaria.com
 
 ### Acknowledgments
 - **PES Community** - Feedback and testing
@@ -495,10 +495,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Cloud Deployment** - Docker containers and cloud hosting
 
 ### Long-term Vision
-- [ ] **Multi-Game Support** - Support for other PES versions
-- [ ] **VR Integration** - Virtual reality lobby experience
-- [ ] **Blockchain Integration** - NFT player cards and achievements
-- [ ] **Machine Learning** - AI-powered game analysis
+- [ ] **Enhanced Match Analytics** - Detailed game statistics and replays
+- [ ] **Community Features** - Forums, player profiles, and social features
+- [ ] **Performance Optimization** - Advanced server scaling and optimization
+- [ ] **Mobile Companion** - Simple mobile app for lobby management
 
 ---
 
