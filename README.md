@@ -1,4 +1,5 @@
-# 🎮 PES 2021 TeamPlay Custom Server : STILL not fully working! In progress!
+# 🎮 PES 2021 TeamPlay Custom Server : 
+STILL not fully working! In progress!
 
 ## Complete 11vs11 Multiplayer Solution with WordPress Integration
 
@@ -12,7 +13,7 @@
 
 ---
 
-## 🌟 Features
+## 🌟 Plan :
 
 ### ⚽ Core Functionality
 - **11vs11 Multiplayer Matches** - Full team coordination support
