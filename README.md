@@ -1,6 +1,7 @@
 # 🎮 PES 2021 TeamPlay Custom Server
 
-## Complete 11vs11 Multiplayer Solution with WordPress Integration - STILL not fully working! In progress!
+## Complete 11vs11 Multiplayer Solution with WordPress Integration
+STILL not fully working! In progress!
 
 [![PES 2021](https://img.shields.io/badge/PES%202021-TeamPlay-blue.svg)](https://github.com/yourusername/pes-teamplay)
 [![WordPress](https://img.shields.io/badge/WordPress-Integration-green.svg)](https://wordpress.org/)
