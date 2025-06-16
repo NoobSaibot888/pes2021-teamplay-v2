@@ -16,18 +16,18 @@ STILL not fully working! In progress!
 ## 🌟 Plan :
 
 ### ⚽ Core Functionality
-- **11vs11 Multiplayer Matches** - Full team coordination support
+- **11vs11 Multiplayer Matches** - Full team coordination support :x: 
 - **Custom Server** - Bypass official servers for unlimited gameplay
 - **WordPress Integration** - Modern web-based lobby management
-- **Real-time Coordination** - Live player status and match coordination
-- **Automatic Launching** - Smart launcher with PES integration
+- **Real-time Coordination** - Live player status and match coordination :x: 
+- **Automatic Launching** - Smart launcher with PES integration :x: 
 
 ### 🌐 Web Interface
 - **Modern Lobby UI** - Clean, responsive web interface
-- **Team Formation** - Visual team builder with drag-drop
-- **Real-time Updates** - Live lobby status and player management
-- **Match Scheduling** - Tournament and event organization
-- **Player Statistics** - Comprehensive stats tracking
+- **Team Formation** - Visual team builder with drag-drop :x: 
+- **Real-time Updates** - Live lobby status and player management :x: 
+- **Match Scheduling** - Tournament and event organization :x: 
+- **Player Statistics** - Comprehensive stats tracking :x: 
 
 ### 🔧 Technical Features
 - **Message Interception** - Replaces "servers offline" with custom messages
